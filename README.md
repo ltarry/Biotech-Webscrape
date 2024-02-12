@@ -1,0 +1,1 @@
+A short Javascript program to webscrape data of Canadian Biopharmaceutical companies off of a website called "BioPharmaGuy". The data gathered includes the copmpany name, it's location, and the provided description. Linked here is the website: https://biopharmguy.com/links/company-by-location-canada.php.
