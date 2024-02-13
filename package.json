@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "puppeteer": "^21.1.0",
+    "sqlite3": "^5.1.6"
+  }
+}
